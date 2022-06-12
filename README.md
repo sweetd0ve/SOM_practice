@@ -1,2 +1,2 @@
-# SOM_practice
+# SOM Algorithm
 Summer practice on Self-Organizing Maps
